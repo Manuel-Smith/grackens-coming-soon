@@ -17,11 +17,12 @@ body {
 
 .phone-contact{
     display: flex;
-    gap: 2rem;
+    justify-content: center;
+    align-content: center;
 
 }
 
-.phone-contact > .fa-phone-volume {
+.fa-phone-volume {
     padding-right: 1rem;
 }
 
