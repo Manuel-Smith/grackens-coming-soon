@@ -79,7 +79,7 @@
                     const formData = new FormData(formE1)
                     const urlEncoded = new URLSearchParams(formData).toString();
 
-                    const responseData = await fetch('http://192.168.100.101:8440/register',
+                    const responseData = await fetch('https://www.grackens.com/register',
                         {   method: 'POST',
                             body: urlEncoded,
                             headers: {

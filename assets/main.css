@@ -7,7 +7,7 @@
 body {
     margin: 0;
     color: rgb(130, 42, 42);
-    background-image:linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url(./kitchen-2400367_1280.jpg);
+    background-image:linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),url(./kitchen-2400367_1280.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
