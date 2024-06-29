@@ -144,14 +144,15 @@ form {
 .social-icons a .fa-youtube,
 .social-icons a .fa-facebook,
 .social-icons a .fa-tiktok,
-.social-icons a .fa-linkedin{
+.social-icons a .fa-square-x-twitter{
     font-size: 2.8rem;
 }
 .social-icons a .fa-youtube{
     color: #ed0000;
 }
 
-.social-icons a .fa-tiktok{
+.social-icons a .fa-tiktok,
+.social-icons a .fa-square-x-twitter{
     color: #010101;
 }
 
